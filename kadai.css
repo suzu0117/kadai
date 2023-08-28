@@ -1,13 +1,21 @@
 body {
-
+    margin: 0px;
 }
+img {
+    vertical-align: bottom;
+  }
 .kadai1 {
     display: flex;
     flex-direction: row;
-    width: 100vw;
+    text-align: center;
+    width: 100%;
 }
 .osi {
     padding: 10px;
+}
+.image {
+    width: 80%;
+    text-align: center;
 }
 @media screen and (max-width: 480px) {
     body {
@@ -21,4 +29,28 @@ body {
         width: 100%-20px;
         padding: 10px;
     }
+}
+.kadai2 {
+    display: flex;
+}
+.osi2 {
+    width: 32%;
+    text-align: center;
+    margin: 0 auto; 
+}
+.image2 {
+    width: 80%;
+    text-align: center;
+}
+.kadai3 {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+}
+.osi3 {
+    padding:10px;
+}
+.image3 {
+    width: 80%;
 }
