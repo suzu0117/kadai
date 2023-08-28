@@ -1,0 +1,24 @@
+body {
+
+}
+.kadai1 {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
+.osi {
+    padding: 10px;
+}
+@media screen and (max-width: 480px) {
+    body {
+
+    }
+    .kadai1 {
+        display: flex;
+        flex-direction: column;
+    }
+    .osi {
+        width: 100%-20px;
+        padding: 10px;
+    }
+}
