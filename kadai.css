@@ -10,7 +10,7 @@ img {
     text-align: center;
     width: 100%;
 }
-.osi {
+.valorant {
     padding: 10px;
 }
 .image {
@@ -25,7 +25,7 @@ img {
         display: flex;
         flex-direction: column;
     }
-    .osi {
+    .valorant {
         width: 100%-20px;
         padding: 10px;
     }
@@ -33,7 +33,7 @@ img {
 .kadai2 {
     display: flex;
 }
-.osi2 {
+.valorant2 {
     width: 32%;
     text-align: center;
     margin: 0 auto; 
@@ -48,7 +48,7 @@ img {
     text-align: center;
     width: 100%;
 }
-.osi3 {
+.valorant3 {
     padding:10px;
 }
 .image3 {
